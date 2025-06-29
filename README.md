@@ -4,10 +4,13 @@
 You will need some environment variables (API Keys and endpoint var) to get this extension running locally, if you are a hackathon judge, reach out to me at akshatbatra25@gmail.com and I will be happy to quickly provide you the same.
 
 Description of required environment variables: 
+
 `IBM_ENDPOINT`: API Endpoint URL for IBM Granite 3.3 8B Instruct LLM. (Tip: IBM Granite is also available to use on Nvidia NIM platform apart from IBM Cloud)
+
 `IBM_KEY`: API Key for the IBM LLM.
 
 `AZURE_SPEECH_KEY`: Azure Cognitive Services Speech Key
+
 `AZURE_SPEECH_REGION`: Azure Cognitive Services Region Name
 
 #### Instructions:
